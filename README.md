@@ -1,0 +1,3 @@
+# Emoji Color Picker 🎨
+
+To run the app...
