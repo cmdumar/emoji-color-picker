@@ -4,6 +4,10 @@
 
 ![screenshot](screenshot.png)
 
+## Live Demo
+
+To experience the app, [click here](https://mohammadumar28.github.io/emoji-color-picker/)
+
 ## Tools
 
 - Vue.js
@@ -15,5 +19,3 @@
 
 - Twitter - [@mohammadumar28](https://twitter.com/Mohammadumar28)
 - Email - [mohammadumar28@gmail.com](mailto:mohammadumar28@gmail.com)
-
-To run the app, [click here](https://mohammadumar28.github.io/emoji-color-picker/)
